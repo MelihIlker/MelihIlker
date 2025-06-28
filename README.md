@@ -49,11 +49,11 @@ Harika! Elbette, "Currently Learning / Exploring" bölümünün Türkçe versiyo
 
 ### 🌱 What I'm Currently Learning / Exploring
 
-* **Deepening my understanding of system design and scalable architectures.** Building robust applications is key!** 🏗️
-* **Diving into serverless computing with AWS Lambda/Azure Functions** to optimize efficiency and cost** ☁️
-* **Exploring the world of WebAssembly (Wasm)** for high-performance web applications.** ⚡
-* **Getting my hands dirty with more advanced CI/CD pipelines** using GitHub Actions/GitLab CI for smoother deployments.** 🚀
-* **Experimenting with new frontend frameworks like Svelte or SolidJS** to see what's next in UI development.** ⚛️
+* **Deepening my understanding of system design and scalable architectures.** Building robust applications is key! 🏗️
+* **Diving into serverless computing with AWS Lambda/Azure Functions** to optimize efficiency and cost ☁️
+* **Exploring the world of WebAssembly (Wasm)** for high-performance web applications. ⚡
+* **Getting my hands dirty with more advanced CI/CD pipelines** using GitHub Actions/GitLab CI for smoother deployments. 🚀
+* **Experimenting with new frontend frameworks like Svelte or SolidJS** to see what's next in UI development. ⚛️
 
 ---
 
