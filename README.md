@@ -156,6 +156,6 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 
 ⭐️ **"Building the future, one line of code at a time!"** ⭐️
 
-![Profile Views](C)
+![](https://komarev.com/ghpvc/?username=MelihIlker&color=blueviolet&style=for-the-badge&abbreviated=true)
 
 </div>
