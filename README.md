@@ -30,7 +30,7 @@ const mely = {
             python: ["Django"]
         },
         databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-        cloud: ["AWS S3", "Supabase"],
+        cloud: ["AWS S3", "Supabase", "Upstash Redis"],
         tools: ["Docker", "Git", "Jira"]
     },
     currentProject: "Solopreneur Platform - Freelancer Management & Project Tracking",
