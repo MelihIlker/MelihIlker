@@ -12,7 +12,7 @@
   <a href="https://melihilker.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b0d10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/melihilker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:melihilker9@gmail.com"><img src="https://img.shields.io/badge/Email-8faecf?style=for-the-badge&logo=gmail&logoColor=0b0d10" alt="Email" /></a>
-  <a href="https://melihilker.vercel.app/Melih_Ilker_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-2d333b?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+  <a href="https://melihilker.vercel.app//Melih_Ilker_Junior_Full_Stack_Developer_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-2d333b?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
 </p>
 
 ---
