@@ -23,7 +23,7 @@ I build web applications end to end, from the database schema to the last pixel,
 What I enjoy most is the part users never see: **who is allowed to read which row**, how a session dies when it should,
 and what happens when someone sends the same request 500 times.
 
-> 🟢 **Open to Junior Full Stack · backend (Node.js) · frontend (React) roles, in Istanbul or remote.**
+> 🟢 **Open to Junior Full Stack · Backend (Node.js) · Frontend (React) roles, in Istanbul or remote.**
 
 ---
 
