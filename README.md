@@ -1,161 +1,125 @@
-# 👋 Hi, I'm Melih Ilker
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d10,100:8faecf&height=200&section=header&text=Melih%20Ilker&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Istanbul&descSize=18&descAlignY=58" alt="Melih Ilker, Full Stack Developer in Istanbul" width="100%" />
+</p>
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melihilker)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MelihIlker)
-  [![Website](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://melihilker-portfolio.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melihilker9@gmail.com)
+<p align="center">
+  <a href="https://melihilker-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=8FAECF&center=true&vCenter=true&width=640&lines=TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Who+can+read+which+row%3F+That's+my+favourite+question.;Sessions+that+die+when+they+should.;Open+to+Junior+Full+Stack+roles+%E2%9C%A6+Istanbul+or+remote" alt="TypeScript, React, Next.js, Node.js, PostgreSQL. Open to Junior Full Stack roles." />
+  </a>
+</p>
 
-</div>
-
-## 🚀 About Me
-
-**Full Stack Developer** with a passion for building scalable applications. I specialize in backend architecture, API development, and modern web technologies. Currently serving **100+ daily active users** with the WestLA platform and have successfully delivered **22+ projects** across web, mobile, and gaming domains.
-
-```javascript
-const mely = {
-    code: ["TypeScript", "JavaScript", "Java", "Lua"],
-    askMeAbout: ["web dev", "backend architecture", "API design", "database optimization"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vite"],
-            css: ["Tailwind CSS", "CSS3", "HTML5"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            java: ["Spring Boot"],
-            python: ["Django"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-        cloud: ["AWS S3", "Supabase", "Upstash Redis"],
-        tools: ["Docker", "Git", "Jira"]
-    },
-    currentProject: "Solopreneur Platform - Freelancer Management & Project Tracking",
-    funFact: "I love building gaming server integrations with Lua!"
-};
-```
-
-## 💼 Professional Highlights
-
-- 🏗️ **Architect** of WestLA platform serving 100+ daily active users
-- 🔒 **Security Expert** in JWT authentication, RBAC, and vulnerability assessment  
-- 🤝 **Team Collaborator** providing technical guidance to 4-5 person dev teams
-- 📱 **Full Stack** expertise across 10+ web apps, 2 mobile apps and gaming server integrations
-- ⚡ **Performance** Focused on scalable systems, real-time data synchronization, and microservices architecture
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Databases & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Tools & Others
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🎮 WestLA Online** | Comprehensive roleplay game management system serving 100+ daily users. Real-time user management, RBAC system, file uploads | Next.js 14, TypeScript, Supabase, AWS S3, PostgreSQL	 | [Live Site](https://westla.online) |
-| **💼 Portfolio Website** | Modern interactive portfolio with terminal-themed design, animations and bilingual support (TR/EN). 92+ Lighthouse score | React 19, TypeScript, Next.js, Tailwind CSS | [Live Site](https://melihilker-portfolio.vercel.app) |
-| **💳 Digital Wallet** | Secure digital wallet platform with JWT authentication and transaction management. Type-safe development focus | Next.js 15, React 19, PostgreSQL | *In Development* |
-| **📱 E-Commerce Backend** | Scalable microservices architecture with Kubernetes and Docker. JWT auth, PostgreSQL & MongoDB integration, CI/CD pipeline | Node.js, Docker, Kubernetes, PostgreSQL, MongoDB | *In Development* |
-| **🚀 Solopreneur Platform** | Freelancer management and project tracking system with focus on clean architecture and type safety | TypeScript (97.6%), Modern Tooling | [Repository](https://github.com/MelihIlker/Solopreneur) |
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelihIlker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MelihIlker&theme=tokyonight&hide_border=false)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihIlker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🎯 Current Focus
-
-- 🚀 Building **Solopreneur Platform** for freelancer management and project tracking
-- 💳 Expanding **Digital Wallet Application** with Next.js 15 & React 19
-- 📚 Studying **Computer Programming** at Bandırma Onyedi Eylül University (2025-2027)
-- 🏗️ Exploring **microservices architecture** and **Kubernetes orchestration**
-- 🛡️ Developing **security-first web applications** with focus on authentication and data protection
-- 📈 Optimizing **database queries** and **system performance**
-
-## 💡 Key Expertise
-
-<div align="center">
-
-```
-🏗️  Microservices & System Architecture    🛡️  Stateful/Stateless & RBAC Security     ⚡  Performance Optimization & Scaling
-📊  Database Design & Optimization        🎨  UI/UX Development   🤖  API Development  
-🔄  Real-time Systems & WebSockets      💻  Full Stack Development
-```
-
-</div>
-
-## 📈 Experience Timeline
-
-| Period | Position | Organization	 | Details |
-|---------|-------------|------------|-------|
-| **2016-Present** | Freelance Full Stack Developer	 | Self-Employed	 | 8+ years of full stack development, 22+ delivered projects, technical consulting |
-| **2023-2024** | Software Development Intern	 | Panasonic Electric Works Turkey	 | Backend development, system optimization, API design |
-
-## 🏆 Core Competencies
-
-- Backend Architecture: Microservices, API design, system scalability
-- Security: JWT authentication, RBAC implementation, vulnerability assessment
-- Database Management: PostgreSQL, MongoDB, query optimization, transaction handling
-- DevOps: Docker, Kubernetes, CI/CD pipelines, AWS services
-- Real-time Systems: WebSocket integration, event-driven architecture
-- Code Quality: TypeScript, clean architecture, design patterns, testing
-- Team Leadership: Mentoring, technical guidance, code reviews
-
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
-
-<div align="center">
-
-📧 **Email**: melihilker9@gmail.com  
-🌐 **Portfolio**: [melihilker-portfolio.vercel.app](https://melihilker-portfolio.vercel.app)  
-💼 **LinkedIn**: [linkedin.com/in/melihilker](https://linkedin.com/in/melihilker)  
+<p align="center">
+  <a href="https://melihilker.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0b0d10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/melihilker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:melihilker9@gmail.com"><img src="https://img.shields.io/badge/Email-8faecf?style=for-the-badge&logo=gmail&logoColor=0b0d10" alt="Email" /></a>
+  <a href="https://melihilker.vercel.app/Melih_Ilker_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-2d333b?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+</p>
 
 ---
 
-⭐️ **"Building the future, one line of code at a time!"** ⭐️
+### 👋 Hey there
 
-![](https://komarev.com/ghpvc/?username=MelihIlker&color=blueviolet&style=for-the-badge&abbreviated=true)
+I build web applications end to end, from the database schema to the last pixel, and I've been doing it for clients since **2021**.
+What I enjoy most is the part users never see: **who is allowed to read which row**, how a session dies when it should,
+and what happens when someone sends the same request 500 times.
 
-</div>
+> 🟢 **Open to Junior Full Stack · backend (Node.js) · frontend (React) roles, in Istanbul or remote.**
+
+---
+
+### 🚀 Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://sporliyo.com">⚽ Sporliyo</a></h3>
+      <img src="https://img.shields.io/badge/status-live-2ea043?style=flat-square" alt="live" />
+      <img src="https://img.shields.io/badge/role-co--developer-8faecf?style=flat-square" alt="co-developer" />
+      <p>SaaS for football academies. Admins, coaches and parents each get their own dashboard for students, groups, training sessions, attendance, dues and CSV reports. Data is filtered on the server by role, so each user only loads what their role is allowed to see.</p>
+      <sub><b>Next.js 16 · React 19 · Neon Postgres · Zod · Vercel Blob</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MelihIlker/Solopreneur">🔐 Solopreneur</a></h3>
+      <img src="https://img.shields.io/badge/status-open%20source-8faecf?style=flat-square" alt="open source" />
+      <img src="https://img.shields.io/badge/focus-security-d29922?style=flat-square" alt="security" />
+      <p>Client and project management, built security-first. It uses Redis-backed sessions instead of stateless JWT (revoking one takes effect instantly on every device), Postgres RLS with default deny, Argon2 hashing, and CI on GitHub Actions.</p>
+      <sub><b>Express · Next.js · Supabase · Redis · Docker Compose</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 NullSect Development</h3>
+      <img src="https://img.shields.io/badge/status-commercial-a371f7?style=flat-square" alt="commercial" />
+      <img src="https://img.shields.io/badge/first%20month-14%20sales-2ea043?style=flat-square" alt="14 sales in the first month" />
+      <p>Multiplayer game-server plugins that a partner and I build end to end, from Lua server logic to React + TypeScript interfaces and MySQL persistence.</p>
+      <sub><b>Lua · React · TypeScript · MySQL</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MelihIlker/portfolio">🌐 Portfolio</a></h3>
+      <img src="https://img.shields.io/badge/status-live-2ea043?style=flat-square" alt="live" />
+      <img src="https://img.shields.io/badge/i18n-EN%20%2F%20TR-8faecf?style=flat-square" alt="EN / TR" />
+      <p>A bilingual personal site, prerendered to static HTML with a custom SSR script. It has its own URL per language, generated SEO (Open Graph, JSON-LD, sitemap) and full reduced-motion support.</p>
+      <sub><b>React 19 · TypeScript · Tailwind CSS v4 · Vite</b></sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🔍 Peek inside: how a request moves through Solopreneur</b></summary>
+  <br>
+
+```mermaid
+flowchart LR
+    U(["Browser"]) -->|"HTTP-only cookie"| N["Next.js frontend"]
+    N -->|"REST"| A["Express API"]
+    A --> RL{"Rate limit (Redis INCR)"}
+    RL -->|"too many"| X["429 Too Many Requests"]
+    RL -->|"ok"| S{"Session valid?"}
+    S -->|"lookup"| R[("Redis sessions")]
+    S -->|"no"| D["401 Unauthorized"]
+    S -->|"yes"| SV["Service layer: Zod + authorization"]
+    SV --> RP["Repository layer"]
+    RP -->|"RLS default deny"| P[("Postgres")]
+```
+
+<sub>The frontend never talks to the database. Every row is protected by Row Level Security, and every session can be killed server-side.</sub>
+
+---
+
+### 🧰 Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,vite&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, Vite" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,docker,aws,git,githubactions&theme=dark" alt="PostgreSQL, MySQL, Redis, Supabase, Docker, AWS, Git, GitHub Actions" /><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,lua&theme=dark" alt="C#, .NET, Lua" />
+</p>
+
+---
+
+<details>
+  <summary><b>📜 Experience timeline</b></summary>
+  <br>
+
+| When | What | Highlights |
+|---|---|---|
+| **2021 → now** | Freelance full stack developer | Client web apps end to end · REST APIs with JWT, RBAC, Redis rate limiting · Amazon S3 (presigned URLs, IAM) |
+| **Oct 2025 → Mar 2026** | WestLA Online | Community platform with real-time notifications and an admin panel · reached **100+ daily active users** |
+| **Sep 2023 → Jun 2024** | Panasonic Electric Works Turkey | Full stack software developer intern · C# / ASP.NET MVC admin panel · real-time IT dashboard |
+| **2025 → 2027** | Bandırma Onyedi Eylül University | Associate degree, Computer Programming |
+
+</details>
+
+<details>
+  <summary><b>🛡️ Things I care about when I build</b></summary>
+  <br>
+
+- **Access control first.** RBAC and row-level rules are designed before the first endpoint.
+- **Revocable sessions.** If a session can't be killed from the server, it isn't really under control.
+- **Validate at the edge.** Every input goes through a schema (Zod) before it reaches business logic.
+- **Boring, typed code.** TypeScript end to end, clear layers, nothing clever that the next person has to decode.
+
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8faecf,100:0b0d10&height=110&section=footer" alt="" width="100%" />
+</p>
